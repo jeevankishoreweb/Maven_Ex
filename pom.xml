@@ -83,12 +83,12 @@
 	    <repository>
 	      <id>Maven-Release</id>
 	      <name>Maven-Release</name>
-	      <url>http://ec2-13-233-111-59.ap-south-1.compute.amazonaws.com:8085/nexus-2.14.11-01/content/repositories/Maven-Release/</url>
+	      <url>http://ec2-13-233-111-59.ap-south-1.compute.amazonaws.com:8081/repository/Maven-Release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>Maven-Snapshot</id>
 	      <name>Maven-Snapshot</name>
-	      <url>http://ec2-13-233-111-59.ap-south-1.compute.amazonaws.com:8085/nexus-2.14.11-01/content/repositories/Maven-Snapshot/</url>
+	      <url>http://ec2-13-233-111-59.ap-south-1.compute.amazonaws.com:8081/repository/Maven-Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
